@@ -1,0 +1,60 @@
+"You can use this transaction report to inform your likely tax obligations. For US customers, Sells, Converts, Rewards Income, Learning Rewards, and Donations are taxable events. For final tax obligations, please consult your tax advisor."
+
+
+
+Transactions
+User,xjavierreyes123@gmail.com,63ed13717f4b03d7a34ebac2
+
+Timestamp,Transaction Type,Asset,Quantity Transacted,Spot Price Currency,Spot Price at Transaction,Subtotal,Total (inclusive of fees and/or spread),Fees and/or Spread,Notes
+2023-02-15T20:43:33Z,Buy,BTC,8.86e-06,MXN,452595.94,4.01,5.00,0.990000,Bought 0.00000886 BTC for $5.00 MXN
+2023-02-18T06:20:22Z,Receive,ETH,0.00129123,MXN,31179.89,"","","",Received 0.00129123 ETH from an external account
+2023-02-19T03:14:59Z,Convert,ETH,0.0003208,MXN,31172.07,10.00,10.00,0.00,Converted 0.0003208 ETH to 0.0003208 ETH2
+2023-02-24T02:16:38Z,Receive,ETH,4.07e-06,MXN,30370.28,"","","",Received 0.00000407 ETH from Bling Financial
+2023-03-01T08:24:08Z,Convert,ETH,0.00064375,MXN,30198.06,19.44,19.44,0.00,Converted 0.00064375 ETH to 0.00064375 ETH2
+2023-05-08T16:29:20Z,Convert,ETH,0.0001504,MXN,33244.68,5.00,5.00,0.00,Converted 0.0001504 ETH to 0.0001504 ETH2
+2023-05-29T18:01:09Z,Receive,ETH,0.00111874,MXN,33218.37,"","","",Received 0.00111874 ETH from Coinbase Staked Assets
+2023-06-05T14:23:45Z,Convert,ETH,0.00064227,MXN,32696.53,21.00,21.00,0.00,Converted 0.00064227 ETH to 0.00064227 ETH2
+2023-07-08T14:37:40Z,Send,ETH,0.00065682,MXN,31896.10,"","","",Sent 0.00065682 ETH to Francisco Javier Gamboa Reyes 
+2023-02-19T03:16:16Z,Send,ETH2,0.00016039,MXN,31170.71,"","","",Sent 0.00016039 ETH2 to Yield CBETH
+2023-02-24T19:39:08Z,Rewards Income,ETH2,4.0e-08,MXN,29408.92,0.00,0.00,0.00,Received 0.00000004 ETH2 from Coinbase Rewards
+2023-02-27T19:03:19Z,Rewards Income,ETH2,5.0e-08,MXN,29786.76,0.00,0.00,0.00,Received 0.00000005 ETH2 from Coinbase Rewards
+2023-03-02T21:46:15Z,Rewards Income,ETH2,4.0e-08,MXN,29763.38,0.00,0.00,0.00,Received 0.00000004 ETH2 from Coinbase Rewards
+2023-03-05T20:45:15Z,Rewards Income,ETH2,1.3e-07,MXN,28208.52,0.00,0.00,0.00,Received 0.00000013 ETH2 from Coinbase Rewards
+2023-03-08T22:58:54Z,Rewards Income,ETH2,2.7e-07,MXN,27831.16,0.010000,0.010000,0.00,Received 0.00000027 ETH2 from Coinbase Rewards
+2023-03-11T20:20:57Z,Rewards Income,ETH2,2.5e-07,MXN,27140.23,0.010000,0.010000,0.00,Received 0.00000025 ETH2 from Coinbase Rewards
+2023-03-14T17:40:35Z,Rewards Income,ETH2,2.6e-07,MXN,32858.10,0.010000,0.010000,0.00,Received 0.00000026 ETH2 from Coinbase Rewards
+2023-03-17T19:03:29Z,Rewards Income,ETH2,5.5e-07,MXN,32761.50,0.020000,0.020000,0.00,Received 0.00000055 ETH2 from Coinbase Rewards
+2023-03-22T03:41:29Z,Rewards Income,ETH2,2.8e-07,MXN,33682.33,0.010000,0.010000,0.00,Received 0.00000028 ETH2 from Coinbase Rewards
+2023-05-08T16:29:52Z,Send,ETH2,6.014e-05,MXN,33241.52,"","","",Sent 0.00006014 ETH2 to Yield CBETH
+2023-05-24T04:57:38Z,Receive,ETH2,0.00022246,MXN,32821.00,"","","",Received 0.00022246 ETH2 from Yield CBETH
+2023-05-28T17:21:11Z,Rewards Income,ETH2,3.1e-07,MXN,32510.25,0.010000,0.010000,0.00,Received 0.00000031 ETH2 from Coinbase Rewards
+2023-05-29T18:01:07Z,Send,ETH2,0.00111874,MXN,33218.37,"","","",Sent 0.00111874 ETH2 to Coinbase Staked Assets
+2023-05-31T19:18:26Z,Rewards Income,ETH2,3.5e-07,MXN,32977.58,0.010000,0.010000,0.00,Received 0.00000035 ETH2 from Coinbase Rewards
+2023-06-03T22:58:28Z,Rewards Income,ETH2,3.8e-07,MXN,33217.95,0.010000,0.010000,0.00,Received 0.00000038 ETH2 from Coinbase Rewards
+2023-06-09T21:00:10Z,Send,ETH2,0.00031495,MXN,31739.59,"","","",Sent 0.00031495 ETH2 to Yield CBETH
+2023-06-15T18:41:50Z,Rewards Income,ETH2,1.8e-07,MXN,28274.04,0.010000,0.010000,0.00,Received 0.00000018 ETH2 from Coinbase Rewards
+2023-06-16T18:34:41Z,Rewards Income,ETH2,1.7e-07,MXN,29229.75,0.00,0.00,0.00,Received 0.00000017 ETH2 from Coinbase Rewards
+2023-06-19T17:53:52Z,Rewards Income,ETH2,8.0e-08,MXN,29514.08,0.00,0.00,0.00,Received 0.00000008 ETH2 from Coinbase Rewards
+2023-06-23T16:05:46Z,Rewards Income,ETH2,9.0e-08,MXN,32970.50,0.00,0.00,0.00,Received 0.00000009 ETH2 from Coinbase Rewards
+2023-06-25T17:23:21Z,Rewards Income,ETH2,9.0e-08,MXN,32465.00,0.00,0.00,0.00,Received 0.00000009 ETH2 from Coinbase Rewards
+2023-06-29T02:18:53Z,Rewards Income,ETH2,9.0e-08,MXN,31369.98,0.00,0.00,0.00,Received 0.00000009 ETH2 from Coinbase Rewards
+2023-07-04T08:56:03Z,Rewards Income,ETH2,1.0e-07,MXN,33228.38,0.00,0.00,0.00,Received 0.0000001 ETH2 from Coinbase Rewards
+2023-07-04T09:07:07Z,Rewards Income,ETH2,1.0e-07,MXN,33208.98,0.00,0.00,0.00,Received 0.0000001 ETH2 from Coinbase Rewards
+2023-07-07T20:29:35Z,Rewards Income,ETH2,9.0e-08,MXN,31945.96,0.00,0.00,0.00,Received 0.00000009 ETH2 from Coinbase Rewards
+2023-07-08T08:41:26Z,Receive,ETH2,0.00031577,MXN,31981.06,"","","",Received 0.00031577 ETH2 from Yield CBETH
+2023-07-08T18:13:19Z,Send,ETH2,0.00031375,MXN,31868.57,"","","",Sent 0.00031375 ETH2 to Yield CBETH
+2023-07-10T17:20:06Z,Rewards Income,ETH2,9.0e-08,MXN,31888.30,0.00,0.00,0.00,Received 0.00000009 ETH2 from Coinbase Rewards
+2023-07-13T20:15:44Z,Rewards Income,ETH2,9.0e-08,MXN,33587.51,0.00,0.00,0.00,Received 0.00000009 ETH2 from Coinbase Rewards
+2023-07-17T19:17:58Z,Rewards Income,ETH2,9.0e-08,MXN,31638.59,0.00,0.00,0.00,Received 0.00000009 ETH2 from Coinbase Rewards
+2023-07-19T23:13:56Z,Rewards Income,ETH2,9.0e-08,MXN,31557.30,0.00,0.00,0.00,Received 0.00000009 ETH2 from Coinbase Rewards
+2023-07-22T17:25:15Z,Rewards Income,ETH2,9.0e-08,MXN,32104.80,0.00,0.00,0.00,Received 0.00000009 ETH2 from Coinbase Rewards
+2023-07-25T15:02:35Z,Rewards Income,ETH2,1.0e-07,MXN,31388.14,0.00,0.00,0.00,Received 0.0000001 ETH2 from Coinbase Rewards
+2023-07-28T16:13:06Z,Rewards Income,ETH2,8.0e-08,MXN,31271.14,0.00,0.00,0.00,Received 0.00000008 ETH2 from Coinbase Rewards
+2023-02-16T05:23:06Z,Buy,MATIC,0.29538048,MXN,25.49,7.53,8.52,0.990000,Bought 0.29538048 MATIC for $8.52 MXN
+2023-02-16T05:23:27Z,Send,MATIC,0.29538048,MXN,25.36,"","","",Sent 0.29538048 MATIC to 0x79466cD93151cEB960fC72CF137952949c4428a9
+2023-02-19T03:16:17Z,Receive,CBETH,0.00015626,MXN,31025.47,"","","",Received 0.00015626 CBETH from Yield CBETH
+2023-05-08T16:29:53Z,Receive,CBETH,5.805e-05,MXN,34117.20,"","","",Received 0.00005805 CBETH from Yield CBETH
+2023-05-24T04:57:37Z,Send,CBETH,0.00021432,MXN,34025.38,"","","",Sent 0.00021432 CBETH to Yield CBETH
+2023-06-09T21:00:10Z,Receive,CBETH,0.00030288,MXN,32888.84,"","","",Received 0.00030288 CBETH from Yield CBETH
+2023-07-08T08:41:26Z,Send,CBETH,0.00030288,MXN,33254.91,"","","",Sent 0.00030288 CBETH to Yield CBETH
+2023-07-08T18:13:20Z,Receive,CBETH,0.00030092,MXN,33173.29,"","","",Received 0.00030092 CBETH from Yield CBETH
